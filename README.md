@@ -15,6 +15,6 @@ Labeled dataset suitable for YOLOv5 is available by link:
 
 Test:
 
+<video src='https://github.com/Darya1488/Sleeping_driver_detection/assets/80621539/a1f44a83-42cf-42c5-9bcf-10925725b0fd' width=180/>
 
-https://github.com/Darya1488/Sleeping_driver_detection/assets/80621539/a1f44a83-42cf-42c5-9bcf-10925725b0fd
 
