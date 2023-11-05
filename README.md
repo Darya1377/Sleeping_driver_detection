@@ -1,4 +1,5 @@
 # Sleeping driver detection
+## ATTENTION! due to limited size allowed in github the up-to-date code will be available by the link: https://colab.research.google.com/drive/1MBE4IRHtzLZ0tT97vx_EcdAf_XIkJLO5?usp=sharing
 Detection of sleeping drivers using YOLOv5(small)
 
 Datasets used: 
