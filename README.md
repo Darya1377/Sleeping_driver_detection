@@ -24,3 +24,22 @@ https://github.com/Darya1488/Sleeping_driver_detection/assets/80621539/d0343940-
 
 )
 
+Mobile app main page:
+<p align="center">
+ <img width="200px" src="main.png" alt="qr"/>
+</p>
+
+The setting page:
+<p align="center">
+ <img width="200px" src="sets.png" alt="qr"/>
+</p>
+
+The detection page(functions will be added):
+<p align="center">
+ <img width="200px" src="cam.png" alt="qr"/>
+</p>
+
+The rate page:
+<p align="center">
+ <img width="200px" src="rank.png" alt="qr"/>
+</p>
